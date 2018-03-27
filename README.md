@@ -1,2 +1,2 @@
 # righteous-code
-My righteous software
+Righteous software I've engineered.
